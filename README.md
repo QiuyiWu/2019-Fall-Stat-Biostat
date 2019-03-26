@@ -5,4 +5,6 @@ https://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=471052&extra=&page
 
 * commit的时候message写你检查到的汇报帖的最新时间，形式："post北京时间XX年XX月XX日XX时 last check XX年XX月XX日XX时"，便于交接。
 
+Thanks @AmesSHENPlus
+
 
